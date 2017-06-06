@@ -22,10 +22,10 @@
     "webpack-dev-server": "^2.2.0"
   },
   "dependencies": {
-    "ojs-db": "git+https://github.com/alanthales/ojs-db.git#v2.0",
     "react": "^15.4.2",
     "react-addons-css-transition-group": "^15.4.2",
     "react-dom": "^15.4.2",
+    "react-router-dom": "^4.1.1",
     "react-toolbox": "^2.0.0-beta.5"
   }
 }
